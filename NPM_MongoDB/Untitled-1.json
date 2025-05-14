@@ -1,0 +1,88 @@
+
+
+[
+  {
+    "nom": "Mon voisin Totoro",
+    "realisateur": "Hayao Miyazaki",
+    "duree": 86,
+    "genres": [
+      "Animation",
+      "Fantastique",
+      "Aventure"
+    ],
+    "resume": "Deux jeunes sœurs découvrent des créatures magiques dans la campagne japonaise.",
+    "date": "1988-04-16"
+  },
+  {
+    "nom": "Spirited Away",
+    "realisateur": "Hayao Miyazaki",
+    "duree": 125,
+    "genres": [
+      "Animation",
+      "Fantastique",
+      "Aventure"
+    ],
+    "resume": "Une jeune fille se retrouve piégée dans un monde spirituel et doit sauver ses parents.",
+    "date": "2001-07-20"
+  },
+  {
+    "nom": "Le Château ambulant",
+    "realisateur": "Hayao Miyazaki",
+    "duree": 119,
+    "genres": [
+      "Animation",
+      "Fantastique",
+      "Aventure"
+    ],
+    "resume": "Une jeune femme victime d’un sortilège se retrouve transformée en vieille dame et trouve refuge dans un château magique en mouvement.",
+    "date": "2004-09-05"
+  },
+  {
+    "nom": "Princesse Mononoké",
+    "realisateur": "Hayao Miyazaki",
+    "duree": 134,
+    "genres": [
+      "Animation",
+      "Fantastique",
+      "Action"
+    ],
+    "resume": "Un jeune guerrier se retrouve pris dans un conflit entre les dieux de la forêt et les humains qui exploitent la nature.",
+    "date": "1997-07-12"
+  },
+  {
+    "nom": "Your Name",
+    "realisateur": "Makoto Shinkai",
+    "duree": 106,
+    "genres": [
+      "Animation",
+      "Drame",
+      "Romance"
+    ],
+    "resume": "Deux adolescents échangent mystérieusement leurs corps à travers le temps et l’espace, tissant un lien profond sans jamais s’être rencontrés.",
+    "date": "2016-08-26"
+  },
+    "nom": "Le Tombeau des lucioles",
+    "realisateur": "Isao Takahata",
+    "duree": 89,
+    "genres": [
+      "Animation",
+      "Drame",
+      "Guerre"
+    ],
+    "resume": "Deux enfants japonais tentent de survivre seuls dans un pays dévasté par la guerre pendant la Seconde Guerre mondiale.",
+    "date": "1988-04-16" // Verify if this is correct; historical release date is accurate.
+    "date": "1988-04-16"
+  },
+  {
+    "nom": "Les Enfants du temps",
+    "realisateur": "Makoto Shinkai",
+    "duree": 112,
+    "genres": [
+      "Animation",
+      "Romance",
+      "Fantastique"
+    ],
+    "resume": "Un lycéen fugueur rencontre une jeune fille capable d’arrêter la pluie, dans un Tokyo frappé par des dérèglements climatiques.",
+    "date": "2019-07-19"
+  }
+]

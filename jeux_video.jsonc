@@ -1,0 +1,32 @@
+[
+    {
+        "nom": "The Legend of Zelda: Breath of the Wild",
+        "editeur": "Nintendo",
+        "developpeur": "Nintendo EPD",
+        "genres": ["Action-aventure", "Monde ouvert"],
+        "date_de_sortie": "2017-03-03",
+        "nombre_de_joueurs_max": 1,
+        "en_ligne": false,
+        "resume": "Un jeu d'action-aventure en monde ouvert où le joueur incarne Link, explorant le royaume d'Hyrule pour vaincre Ganon."
+    },
+    {
+        "nom": "Minecraft",
+        "editeur": "Mojang Studios",
+        "developpeur": "Mojang Studios",
+        "genres": ["Sandbox", "Survie"],
+        "date_de_sortie": "2011-11-18",
+        "nombre_de_joueurs_max": 10,
+        "en_ligne": true,
+        "resume": "Un jeu sandbox où les joueurs peuvent construire et explorer des mondes générés de manière procédurale."
+    },
+    {
+        "nom": "Overwatch",
+        "editeur": "Blizzard Entertainment",
+        "developpeur": "Blizzard Entertainment",
+        "genres": ["FPS", "Multijoueur"],
+        "date_de_sortie": "2016-05-24",
+        "nombre_de_joueurs_max": 12,
+        "en_ligne": true,
+        "resume": "Un jeu de tir à la première personne multijoueur basé sur des héros avec des compétences uniques."
+    }
+]

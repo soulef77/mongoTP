@@ -1,0 +1,23 @@
+{
+  "name": "m2i_crud",
+  "version": "1.0.0",
+  "description": "exercice sur mongoDB",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "author": "Soulef",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongodb": "^6.16.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.17",
+    "nodemon": "^3.1.10"
+  }
+}
